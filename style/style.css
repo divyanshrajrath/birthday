@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("/img/background.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    margin:0;
+    height:270vh;
+}
+
+.heading{
+    justify-items:center;
+}
+h1{
+    font-size: 70px;
+    padding: 10px;
+    font-family: "Caveat";
+    color: #cccccc;
+}
+h2{
+    padding: 10px;
+    font-family: "Caveat";
+    color: #cccccc;
+    font-size: 30px;
+}
+
+img{
+    height:300px;
+    width: 300px;
+    padding:px;
+    border:20px solid white;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+.image{
+    height: 800px;
+    width: 800px;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
+
+.content{
+    width:70%;
+    justify-self: center;
+    padding-left: 40px;
+    color: #FAF1D6;
+    background: rgba(255,255,255,0.3);
+    border-radius: 50px;
+    box-shadow: 5px 5px rgba(0,0,0,0.1);
+}
+
+p{
+    padding: 10px;
+    font-family: "Caveat";
+    font-size: 25px;
+}
+.lines{
+    padding-left:100px
+}
+.love{
+    justify-self: center;
+    font-size: 50px;
+}
